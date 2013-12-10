@@ -1,7 +1,7 @@
 Parallel gem: a few examples of use
 ============
 
-1.[Code Safari: Forks, pipes, and the Parallel gem](http://www.sitepoint.com/code-safari-forks-pipes-and-the-parallel-gem/) en SitePoint por Xavier Shay.  Published June 16, 2011
+1. [Code Safari: Forks, pipes, and the Parallel gem](http://www.sitepoint.com/code-safari-forks-pipes-and-the-parallel-gem/) en SitePoint por Xavier Shay.  Published June 16, 2011
 
 1. La gema [parallel](https://github.com/grosser/parallel) en GitHub
 
