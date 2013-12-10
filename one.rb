@@ -18,6 +18,7 @@ def heavy(x)
   10.times do
     cos(sin(sin(x)))
   end
+  cos(sin(sin(x)))
 end
 
 before = Time.new
